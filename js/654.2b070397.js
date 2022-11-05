@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkapp"]=self["webpackChunkapp"]||[]).push([[654],{9654:function(n,e,u){u.r(e),u.d(e,{default:function(){return s}});var t=function(){var n=this,e=n._self._c;return e("div",[n._v(" 我是团购订单内容 ")])},r=[],a={name:""},c=a,l=u(1001),p=(0,l.Z)(c,t,r,!1,null,"ebc28414",null),s=p.exports}}]);
